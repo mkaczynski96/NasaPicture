@@ -69,7 +69,6 @@ func (api *api) PicturesHandler() http.HandlerFunc {
 		err = json.NewEncoder(w).Encode(response)
 		if err != nil {
 			response.ErrorMsg = err.Error()
-			fmt.Println("something went wrong: %w", err)
 			return
 		}
 	}

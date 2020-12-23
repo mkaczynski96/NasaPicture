@@ -1,0 +1,11 @@
+server:
+  CONCURRENT_REQUESTS: 5
+  MAX_REQUESTS: 1000
+  PORT: 8080
+picture:
+  START_DATE: "start_date"
+  END_DATE: "end_date"
+external:
+  API_KEY: "DEMO_KEY"
+  URL: "https://api.nasa.gov/planetary/apod?api_key="
+  DATE_PARAMETER: "&date="

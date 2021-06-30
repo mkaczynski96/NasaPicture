@@ -1,5 +1,5 @@
-# GogoSpace
-TWljaGFsIEdvZ29BcHBzIE5BU0E=
+# NasaPicture
+Get an information about nasa's picture
 
 
 <b>HOW TO RUN:</b>
